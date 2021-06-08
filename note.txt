@@ -1,0 +1,6 @@
+Smart contract: 1_Storage.sol on remix default demo
+Deploy network: 
+Deploy account: 0x0386047941826bCC9Dec5D33D74C8aEC5A8f8f7D
+Deploy tx: https://ropsten.etherscan.io/tx/0x51bebd19f5c3cc30d3ded71c6244d73b8d76126567d33d90d7a062e0db8d18f2
+Contract address: 0x8784555eDd2ebdc887b5Ea9D1Bc252c4295214c9
+Contract ABI: # see 1_Storage.abi file
